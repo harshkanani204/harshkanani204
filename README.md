@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harsh Kanani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **aa**
+### 🔭 I’m currently working on
+- 
 
-- 🌱 I’m currently learning **aa**
+### 🌱 I’m currently learning
+- 
 
-- 👯 I’m looking to collaborate on **aa**
+### 👯 I’m looking to collaborate on
+- I'm always open to collaborating on interesting projects related to ML/DL.
+- I can also help in the Documentation 
 
-- 🤝 I’m looking for help with **aa**
 
-- 💬 Ask me about **aa**
+### 💬 Ask me about **aa**
 
-- 📫 How to reach me **112001015@smail.iitpkd.ac.in**
+### 📫 How to reach me **112001015@smail.iitpkd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
