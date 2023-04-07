@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Kanani</h1>
-<h3 align="center">A pre-final year CSE undergrad working my way up to becoming a great software engineer.</h3>
+<h3 align="center">a pre-final year Computer Science undergraduate at IIT Palakkad, with a passion for software development. </h3>
 
 
 ### 🌱 I’m currently exploring
