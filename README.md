@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harsh Kanani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A pre-final year CSE undergrad working my way up to becoming a great software engineer.</h3>
 
-### 🔭 I’m currently working on
-- 
 
-### 🌱 I’m currently learning
-- 
+### 🌱 I’m currently exploring
+- ML/DL and Computer Vision
+- Cryptography
+- Theoretical Machine Learning
 
 ### 👯 I’m looking to collaborate on
-- I'm always open to collaborating on interesting projects related to ML/DL.
-- I can also help in the Documentation 
+- I'm always open to collaborating on interesting projects related to ML/DL, Data Analysis.
+- WebApp Projects with python libraries such as `Streamlit`.
+- I am also available and interested in contributing to the documentation of large-scale projects.
 
-
-### 💬 Ask me about **aa**
 
 ### 📫 How to reach me **112001015@smail.iitpkd.ac.in**
 
