@@ -24,11 +24,11 @@
 
 <div class="row">
   <div class="column">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkanani204&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="harshkanani204" style="width:100%"/></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkanani204&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="harshkanani204" style="width:50%"/></p>
   </div>
 
   <div class="column">
-    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshkanani204&theme=highcontrast&show_icons=true&locale=en" alt="harshkanani204" style="width:100%"/></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshkanani204&theme=highcontrast&show_icons=true&locale=en" alt="harshkanani204" style="width:50%"/></p>
   </div>
 
 
