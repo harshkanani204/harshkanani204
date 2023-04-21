@@ -3,7 +3,8 @@
 
 
 ### 🌱 I’m currently exploring
-- ML/DL and Computer Vision
+- ML/DL
+- Web Development (Django)
 - Cryptography
 - Theoretical Machine Learning
 
