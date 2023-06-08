@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently exploring
 - ML/DL
-- Web Development (Django)
+- Web Development
 - Cryptography
 - Theoretical Machine Learning
 
